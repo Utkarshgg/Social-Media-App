@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+My own social media app made with love in Django that has the features of User authentication (Sign up, Sign In and Logout), also it has a user profile page and account settings page where the data of the user is stored. The user can also upload pictures so that it appears on the feed of other users. Also, there is the feature where user is shown recommendations of other users he can follow.
